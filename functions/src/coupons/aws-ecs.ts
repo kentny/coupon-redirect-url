@@ -1,4 +1,4 @@
-import * as functions from "firebase-functions";
+import * as functions from "firebase-functions/v1";
 import { remoteConfig } from "../firebase";
 import { ExplicitParameterValue } from "firebase-admin/lib/remote-config/remote-config-api"
 
